@@ -1,0 +1,14 @@
+# file: .dbnote.var
+# content: variables for dbnote
+# created: 20210116
+
+  repository = 
+
+  author = Roch Schanen
+
+  email = r.schanen@lancaster.ac.uk
+
+# location method = manual, what3words
+  location method = manual
+	
+  location value = fork.shades.basis
