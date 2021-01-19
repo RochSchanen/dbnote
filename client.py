@@ -5,8 +5,8 @@
 # author: Roch Schanen
 
 import socket
-ip = "192.168.1.87"
-pt = 5001
+# ip, pt = "192.168.1.xxx", nnnnnn
+ip, pt = "xxx.xxx.xxx.xxx", nnnnnn
 
 # create socket
 sh = socket.socket()

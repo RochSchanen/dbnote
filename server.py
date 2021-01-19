@@ -5,8 +5,8 @@
 # author: Roch Schanen
 
 import socket
-ip = "0.0.0.0"
-pt = 5001
+ip, pt = "0.0.0.0", nnnnn
+
 
 # create socket
 sh = socket.socket()
